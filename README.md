@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-    This is the continuation of my web develpment bootcamp, in which the idea was create a <a href="#" target="_blank">website</a> in order to put on pratice all of my new Bootstrap and Advanced CSS knowledges. 
+    This is the continuation of my web develpment bootcamp, in which the idea was create a new <a href="#" target="_blank">website</a> in order to put on pratice all of my new Bootstrap and Advanced CSS knowledges. 
 </p>
 <p>
     In addition, at the moment, I have just finished my Html, CSS and Bootstrap modules and I am about to start Javascript module.
